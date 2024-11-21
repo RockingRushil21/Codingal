@@ -1,0 +1,5 @@
+print("My name is Rushil")
+print("I am studying in Inter 1st year.")
+print("I am an aspiring entrepreneur.")
+print("I am from Hyderabad.")
+print("I am a Human.")
